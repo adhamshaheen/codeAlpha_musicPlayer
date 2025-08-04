@@ -30,9 +30,6 @@ Vanilla JavaScript: Audio logic, playlist control, DOM manipulation.
 ▶️ How to Run the Project
 Download or Clone the Repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/music-player.git
 Open the HTML File:
 Double-click index.html or open it in your browser via a local server.
@@ -69,6 +66,5 @@ Volume is preset to 0.7 on load.
 This project is open-source and free to use for educational or personal purposes.
 
 🙌 Acknowledgements
-SoundHelix for royalty-free audio samples.
-
-UI inspired by modern streaming platforms.
+- SoundHelix for royalty-free audio samples.
+- UI inspired by modern streaming platforms.
