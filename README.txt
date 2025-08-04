@@ -65,15 +65,6 @@ The current implementation autoplays the first track once the page loads.
 
 Volume is preset to 0.7 on load.
 
-📈 Future Improvements (Optional)
-Add support for custom file uploads.
-
-Save playback progress and playlist state in localStorage.
-
-Make UI mobile-friendly with full responsive layout.
-
-Animate transitions between tracks.
-
 📄 License
 This project is open-source and free to use for educational or personal purposes.
 
